@@ -1,20 +1,20 @@
 ![](https://github.com/dhamu2908/dhamu2908/blob/8a8b130ffae178396fc6a408ff440078136f9816/Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Dhamodharan</h1>
-<h3 align="center">Full Stack Python Developer with Expertise in Java, Python, JavaScript, HTML/CSS, DevOps Practices, and Amazon Web Services</h3>   
+<h3 align="center">AI/ML Enthusiast  with Expertise in CPP, Python, Machine Learning, Deep Learning and Amazon Web Services</h3>   
 <!--<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="coding">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhamu2908y&label=Profile%20views&color=0e75b6&style=flat" alt="dhamu2908" /> </p>
  
-- 🔭 **I’m recently Studying IIT Madras - Computer Science**     
+- 🔭 **I’m recently Studying M.Tech in Computer Science at IIT Madras**     
     
-- 🌱 I’m currently learning **Kafka, Microservices, DevOps**  
+- 🌱 I’m currently learning **Advanced DSA, Pattern Recognition and Machine Learning, Deep Learning**  
 
-- 👯 I’m looking to collaborate on **Full-stack development** 
+- 👯 I’m looking to collaborate on **AI/ML development** 
 
-- 💬 Ask me about **Full Stack Development, Java, Python, JavaScript, HTML/CSS, and DevOps**
+- 💬 Ask me about **CPP, Python, Machine Learning, Deep Learning, NLP**
 
-- 📫 How to reach me **obireddy023@gmail.com**
+- 📫 How to reach me **mdhamu2908@gmail.com or mdhamu55@gmail.com**
 
 - ⚡ Fun fact **I am also a fan of outdoor activities like hiking and camping** 
 
