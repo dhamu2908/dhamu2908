@@ -1,3 +1,5 @@
+![](https://github.com/dhamu2908/dhamu2908/blob/8a8b130ffae178396fc6a408ff440078136f9816/Banner.gif)
+
 <h1 align="center">Hi 👋, I'm Dhamodharan</h1>
 <h3 align="center">Full Stack Python Developer with Expertise in Java, Python, JavaScript, HTML/CSS, DevOps Practices, and Amazon Web Services</h3>   
 <!--<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="coding">-->
