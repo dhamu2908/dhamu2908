@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhamu2908y&label=Profile%20views&color=0e75b6&style=flat" alt="dhamu2908" /> </p>
  
-- 🔭 **I’m recently Studying M.Tech in Computer Science at IIT Madras**     
+- 🔭 **I’m currently studying M.Tech in Computer Science at IIT Madras**     
     
 - 🌱 I’m currently learning **Advanced DSA, Pattern Recognition and Machine Learning, Deep Learning**  
 
