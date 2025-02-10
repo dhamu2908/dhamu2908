@@ -1,7 +1,7 @@
 ![](https://github.com/dhamu2908/dhamu2908/blob/8a8b130ffae178396fc6a408ff440078136f9816/Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Dhamodharan</h1>
-<h3 align="center">AI/ML Enthusiast  with Expertise in CPP, Python, Machine Learning, Deep Learning and Amazon Web Services</h3>   
+<h3 align="center">AI/ML Enthusiast  with Expertise in CPP, Python, Machine Learning, Deep Learning, NLP, LLM and Amazon Web Services</h3>   
 <!--<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="coding">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhamu2908y&label=Profile%20views&color=0e75b6&style=flat" alt="dhamu2908" /> </p>
