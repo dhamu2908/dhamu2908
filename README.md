@@ -8,7 +8,7 @@
  
 - 🔭 **I’m currently studying M.Tech in Computer Science at IIT Madras**     
     
-- 🌱 I’m currently learning **Advanced DSA, Pattern Recognition and Machine Learning, Deep Learning**  
+- 🌱 I’m currently learning **Advanced DSA, Pattern Recognition and Machine Learning, Deep Learning, NLP, Reinforcement Learning, GPU Programming, Block-Chain**  
 
 - 👯 I’m looking to collaborate on **AI/ML development** 
 
