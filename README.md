@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **CPP, Python, Machine Learning, Deep Learning, NLP**
 
-- 📫 How to reach me **mdhamu2908@gmail.com or mdhamu55@gmail.com**
+- 📫 How to reach me **mdhamu2908@gmail.com**
 
 - ⚡ Fun fact **I am also a fan of outdoor activities like hiking and camping** 
 
