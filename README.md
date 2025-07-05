@@ -32,14 +32,14 @@
 ### 📝  Programming Languages:
  
 
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Go.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
-   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
-  <!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Solidity.svg" /> -->
+  <img height="12px" align="left" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
+  <img height="12px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
+  <img height="12px" align="left" src="https://icon.icepanel.io/Technology/svg/C.svg" />
+  <img height="12px" align="left" src="https://icon.icepanel.io/Technology/svg/Go.svg" />
+  <img height="12px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
+  <img height="12px" align="left" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
+   <img height="12px" align="left" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
+  <!-- <img height="12px" align="left" src="https://icon.icepanel.io/Technology/svg/Solidity.svg" /> -->
   
 <br/>
 <br/>
