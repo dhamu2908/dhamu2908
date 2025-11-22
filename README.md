@@ -8,7 +8,7 @@
 - 🔭 **I'm currently studying M.Tech in Computer Science at IIT Madras**     
 - 🌱 I'm currently learning **Advanced DSA, Pattern Recognition and Machine Learning, Deep Learning, NLP, Reinforcement Learning, GPU Programming, Block-Chain**  
 - 👯 I'm looking to collaborate on **AI/ML development** 
-- 💬 Ask me about **CPP, Python, Machine Learning, Deep Learning, NLP**
+- 💬 Ask me about **CPP, Python, Machine Learning, Deep Learning, NLP, LLMs**
 - 📫 How to reach me **mdhamu2908@gmail.com**
 - ⚡ Fun fact **I am also a fan of outdoor activities like hiking and camping** 
 
